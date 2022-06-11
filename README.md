@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chinenye
 - 👀 I’m interested in books on crime and adventure.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on html and css projects.
+- 💞️ I’m looking to collaborate on html, css, javascript and python projects.
 - 📫 You can send me an email at birdievsq@gmail.com. My twitter handle is @ChinenyeOluyede.
 
 <!---
