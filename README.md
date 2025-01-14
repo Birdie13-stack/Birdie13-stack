@@ -4,10 +4,6 @@
 
 I'm a **Software Engineer**, **Content Writer**, and **Community Manager**. I'm passionate about sharing knowledge, documentation, Content Strategy, and others. In 2025, I'm pivoting into DevOps engineering and Content Strategy for SAAS brands. I create technical content on my [Blog](https://ennycodes.hashnode.dev) and other platforms, watch self-help podcasts, and read books(a lot).
 
-### A quote I go by:
-
-> "We don't have to be smarter than the rest. We have to be more disciplined than the rest." - Warren Buffett
-
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
@@ -15,6 +11,10 @@ I'm a **Software Engineer**, **Content Writer**, and **Community Manager**. I'm 
 - 🧊 Another fun fact: I watch true crime podcasts for fun.
 - 🌱 I’m currently learning Linux and other cloud engineering concepts.
 - 📫 You can [view my resume](#) and contact me by emailing birdievsq@gmail.com.
+
+### A quote I go by:
+
+> "We don't have to be smarter than the rest. We have to be more disciplined than the rest." - Warren Buffett
 
 ---
 
