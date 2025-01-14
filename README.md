@@ -7,13 +7,14 @@ I'm a **Software Engineer**, **Content Writer**, and **Community Manager**. I'm 
 ### A quote I go by:
 
 > "We don't have to be smarter than the rest. We have to be more disciplined than the rest."
-> Warren Buffett
+>
+> - Warren Buffett
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I love fried yam.
-- 💡 Another fun fact: I watch true crime podcasts for fun.
+- 🧊 Another fun fact: I watch true crime podcasts for fun.
 - 🌱 I’m currently learning Linux and other cloud engineering concepts.
 - 📫 You can [view my resume](#) and contact me by emailing birdievsq@gmail.com.
 
