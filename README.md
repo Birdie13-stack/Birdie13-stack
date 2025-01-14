@@ -6,9 +6,8 @@ I'm a **Software Engineer**, **Content Writer**, and **Community Manager**. I'm 
 
 ### A quote I go by:
 
-> "We don't have to be smarter than the rest. We have to be more disciplined than the rest." -
->
-> Warren Buffett
+> "We don't have to be smarter than the rest. We have to be more disciplined than the rest."
+> -Warren Buffett
 
 **Here's a quick summary about me**:
 
