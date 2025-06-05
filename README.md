@@ -10,7 +10,7 @@ I'm a **Software Engineer**, **Content Writer**, and **Community Manager**. I'm 
 - 💡 Fun fact: I love fried yam.
 - 🧊 Another fun fact: I watch true crime podcasts for fun.
 - 🌱 I’m currently learning Linux and other cloud engineering concepts.
-- 📫 You can [view my resume](#) and contact me by emailing birdievsq@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing chinenyeoluyede@gmail.com.
 
 ### A quote I go by:
 
