@@ -8,7 +8,7 @@ I'm a **Software Engineer**, **Content Writer**, and **Community Manager**. I'm 
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I love fried yam.
-- 🧊 Another fun fact: I watch true crime podcasts as a pastime.
+- 🧊 Another fun fact: I love reading crime thriller novels.
 - 🌱 I’m currently learning Linux and other cloud engineering concepts.
 - 📫 You can [view my resume](#) and contact me by emailing chinenyeoluyede@gmail.com.
 
